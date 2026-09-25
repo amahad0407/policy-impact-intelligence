@@ -1,0 +1,18 @@
+{
+  "last_checked": "2026-09-25T22:48:43.090760+00:00",
+  "sources": {
+    "federal_register": {
+      "last_checked": "2026-09-25T22:48:43.090760+00:00",
+      "note": "Archived documents — publication dates fixed"
+    },
+    "news": {
+      "last_checked": "2026-09-25T22:48:43.090760+00:00",
+      "latest_article_date": "2026-09-25T13:42:33+00:00",
+      "article_count": 16
+    },
+    "comments": {
+      "last_checked": "2026-09-25T22:48:43.090760+00:00",
+      "note": "Comment period closed April 2023"
+    }
+  }
+}

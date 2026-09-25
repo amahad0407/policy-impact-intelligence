@@ -1,0 +1,177 @@
+{
+  "summary": "Commenters focused on the impact of non-compete agreements on workers' mobility, wages, and innovation, with significant attention to healthcare professionals and franchisees. Opinions were predominantly supportive of the FTC's proposed ban, though some dissenting views highlighted potential business risks.",
+  "themes": [
+    {
+      "theme": "Worker Mobility and Career Advancement",
+      "description": "Many commenters argued that non-compete agreements restrict workers' ability to change jobs, pursue better opportunities, or start their own businesses, leading to suppressed wages and limited career growth.",
+      "comment_count": 18,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-11372",
+          "excerpt": "Noncompete agreements eliminate competition in the labor market, employers don’t have an incentive to give their workers better pay, working conditions, or benefits.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-11372"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21262",
+          "excerpt": "Non-compete clauses limit competition and patient access to specialized care.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21262"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21163",
+          "excerpt": "Such language would have severely limited my ability to find another job or start my own business in a field in which I had close to 30 years experience.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21163"
+        }
+      ]
+    },
+    {
+      "theme": "Impact on Healthcare Professionals",
+      "description": "Healthcare professionals frequently highlighted how non-compete agreements negatively affect patient care, force relocation, and contribute to burnout among physicians and nurses.",
+      "comment_count": 12,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-16079",
+          "excerpt": "Physicians with noncompetes in their contracts are forced with the choice of uprooting themselves and their families each time they want to switch practice environments.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-16079"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21261",
+          "excerpt": "Non-compete clauses handicap the provider in so many ways. We are humans!",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21261"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21227",
+          "excerpt": "Non-compete clauses for physician contracts have always been onerous and limiting for the individual physician.",
+          "source_url": ""
+        }
+      ]
+    },
+    {
+      "theme": "Franchisee Concerns",
+      "description": "Franchisees expressed frustration with non-compete clauses in franchise agreements, which they claim limit their ability to work in their field after their franchise term ends.",
+      "comment_count": 4,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-19440",
+          "excerpt": "The non-compete in my franchise agreement limits my ability to make a living at the expiration of my term.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-19440"
+        },
+        {
+          "comment_id": "FTC-2023-0007-16294",
+          "excerpt": "The noncompete agreement that I was required to sign in connection with the signing of my franchise agreement negatively affects my business and me.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-16294"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21239",
+          "excerpt": "Franchisees only sell the license to use the concept. Otherwise the franchisee operates as an independent store owner/operator.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21239"
+        }
+      ]
+    },
+    {
+      "theme": "Economic and Innovation Impacts",
+      "description": "Commenters frequently mentioned that non-compete agreements stifle entrepreneurship, innovation, and economic growth by preventing workers from contributing to new businesses or industries.",
+      "comment_count": 10,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-21178",
+          "excerpt": "Free market is about having the free trade of Labor to provide innovation.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21178"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21170",
+          "excerpt": "These agreements stiffle innovation and inhibit competition.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21170"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21184",
+          "excerpt": "Banning noncompete agreements will lead to higher wages and better opportunities for American workers.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21184"
+        }
+      ]
+    }
+  ],
+  "viewpoints": [
+    {
+      "label": "Supportive",
+      "description": "Most commenters supported the FTC's proposed ban, citing benefits such as improved worker mobility, higher wages, better patient care, and economic growth.",
+      "comment_count": 42,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-21182",
+          "excerpt": "Your plan will boost the economy and directly help millions of workers, future new business owners, and people like me all across the country.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21182"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21240",
+          "excerpt": "Banning these coercive agreements will help millions of workers, future new business owners, and people like me all across the country.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21240"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21219",
+          "excerpt": "These clauses hold workers’ wages down, stifle innovation, and harm working people.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21219"
+        }
+      ]
+    },
+    {
+      "label": "Opposed",
+      "description": "A minority of commenters opposed the ban, arguing that non-compete agreements protect businesses from unfair competition and loss of proprietary knowledge.",
+      "comment_count": 2,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-20234",
+          "excerpt": "I have felt the catastrophic effects of not being able to enforce a non-compete agreement.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-20234"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21163",
+          "excerpt": "My then employer tried to include very onerous noncomplete language in my severance agreement.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21163"
+        }
+      ]
+    },
+    {
+      "label": "Conditional",
+      "description": "Some commenters supported the ban but requested specific exemptions or additional considerations, such as including franchises or addressing non-profit hospitals.",
+      "comment_count": 6,
+      "evidence": [
+        {
+          "comment_id": "FTC-2023-0007-19440",
+          "excerpt": "I request the FTC include franchises in the ban on non-competes.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-19440"
+        },
+        {
+          "comment_id": "FTC-2023-0007-9703",
+          "excerpt": "Non-profit hospitals should not be exempt from this ban.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-9703"
+        },
+        {
+          "comment_id": "FTC-2023-0007-21166",
+          "excerpt": "I have also introduced legislation to restrict the use of noncompetes, specifically with New Hampshire House Bill 366.",
+          "source_url": "https://www.regulations.gov/comment/FTC-2023-0007-21166"
+        }
+      ]
+    }
+  ],
+  "affected_groups": [
+    "Healthcare professionals",
+    "Franchisees",
+    "Low-wage workers",
+    "Software engineers",
+    "Small business owners"
+  ],
+  "limitations": [
+    "Non-random sample may not represent all viewpoints.",
+    "Limited to 50 comments out of 20,697 total submissions.",
+    "Potential bias toward healthcare and franchise-related concerns due to sample composition."
+  ],
+  "_metadata": {
+    "generated_at": "2026-09-23T02:59:28.262566+00:00",
+    "deployment": "gpt-4o",
+    "sample_size": 50,
+    "total_comments_in_docket": 20697,
+    "sample_note": "First page sorted by newest, filtered to comments >= 100 characters. Not a random sample.",
+    "input_tokens": 6100,
+    "output_tokens": 1647
+  }
+}

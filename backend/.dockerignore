@@ -1,0 +1,16 @@
+# Python artifacts
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Dev/analysis scripts (not needed to serve the API)
+scripts/
+
+# Secrets — never in the image
+.env
+.env.*
+
+# OS
+.DS_Store

@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Raw data files are large — keep out of git
+data/raw/*.json
+
+# Processed analysis files ARE committed (no secrets, ~37KB total — required for deployment)
+# data/processed/*.json  ← intentionally not excluded
+
+# OS
+.DS_Store
+Thumbs.db

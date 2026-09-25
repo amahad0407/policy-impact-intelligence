@@ -1,0 +1,103 @@
+{
+  "summary": "The final rule introduces a distinction between senior executives and other workers regarding the enforceability of existing non-compete clauses, which was not present in the proposed rule. It also modifies definitions, such as 'non-compete clause,' and removes the definition of 'employer' while adding a separate definition for 'person.' The final rule incorporates public comments and provides model language for notice requirements to workers affected by the rule.",
+  "key_changes": [
+    {
+      "topic": "Scope of Ban on Non-Compete Clauses",
+      "proposed": "The proposed rule provided a comprehensive ban on non-compete clauses, declaring it an unfair method of competition for employers to enter into, maintain, or represent the enforceability of non-compete clauses with workers. (Proposed Rule, § 910.1)",
+      "final": "The final rule bans new non-compete clauses for all workers but allows existing non-compete clauses for senior executives to remain enforceable, while existing non-competes for other workers are no longer enforceable after the effective date. (Final Rule, Summary)",
+      "change_description": "The final rule introduces a distinction between senior executives and other workers regarding the enforceability of existing non-compete clauses."
+    },
+    {
+      "topic": "Notice Requirement for Existing Non-Competes",
+      "proposed": "The proposed rule did not explicitly address notice requirements for workers affected by the unenforceability of existing non-compete clauses. (Proposed Rule, § 910.1)",
+      "final": "The final rule requires employers to provide notice to workers with existing non-compete clauses that these clauses are no longer enforceable, and includes model language to facilitate compliance. (Final Rule, Summary)",
+      "change_description": "The final rule adds a notice requirement for workers affected by the unenforceability of existing non-compete clauses."
+    },
+    {
+      "topic": "Definition of 'Employer'",
+      "proposed": "The proposed rule defined 'employer' as 'a person, as defined in 15 U.S.C. 57b-1(a)(6), that hires or contracts with a worker to work for the person.' (Proposed Rule, § 910.1)",
+      "final": "The final rule does not adopt a definition of 'employer' but instead uses the term 'person' throughout the regulatory text. (Final Rule, § 910.1)",
+      "change_description": "The final rule removes the definition of 'employer' and adopts a separate definition for 'person.'"
+    },
+    {
+      "topic": "Definition of 'Non-Compete Clause'",
+      "proposed": "The proposed rule defined 'non-compete clause' as a contractual term preventing a worker from seeking or accepting employment or operating a business after the conclusion of employment. (Proposed Rule, § 910.1)",
+      "final": "The final rule modifies the definition to include terms or conditions of employment that penalize or effectively prevent a worker from seeking or accepting work or operating a business, whether written or oral. (Final Rule, § 910.1)",
+      "change_description": "The final rule expands the definition of 'non-compete clause' to include workplace policies and oral agreements that function as non-competes."
+    }
+  ],
+  "unchanged_elements": [
+    "The Commission's reliance on Section 5 of the FTC Act as the legal basis for the rule remained consistent. (Proposed Rule, § 910.1; Final Rule, § 910.1)",
+    "The rule's focus on post-employment restraints, rather than concurrent-employment restraints, remained unchanged. (Proposed Rule, § 910.1; Final Rule, § 910.1)"
+  ],
+  "definitions": [
+    {
+      "term": "Business Entity",
+      "proposed_definition": "A partnership, corporation, association, limited liability company, or other legal entity, or a division or subsidiary thereof. (Proposed Rule, § 910.1)",
+      "final_definition": "A partnership, corporation, association, limited liability company, or other legal entity, or a division or subsidiary thereof. (Final Rule, § 910.1)",
+      "changed": false
+    },
+    {
+      "term": "Employment",
+      "proposed_definition": "Work for an employer, as the term employer is defined in § 910.1(c). (Proposed Rule, § 910.1)",
+      "final_definition": "Work for a person. (Final Rule, § 910.1)",
+      "changed": true
+    },
+    {
+      "term": "Employer",
+      "proposed_definition": "A person, as defined in 15 U.S.C. 57b-1(a)(6), that hires or contracts with a worker to work for the person. (Proposed Rule, § 910.1)",
+      "final_definition": "Not explicitly defined.",
+      "changed": true
+    },
+    {
+      "term": "Non-Compete Clause",
+      "proposed_definition": "A contractual term preventing a worker from seeking or accepting employment or operating a business after the conclusion of employment. (Proposed Rule, § 910.1)",
+      "final_definition": "A term or condition of employment that prohibits, penalizes, or effectively prevents a worker from seeking or accepting work or operating a business after the conclusion of employment, whether written or oral. (Final Rule, § 910.1)",
+      "changed": true
+    },
+    {
+      "term": "Person",
+      "proposed_definition": "Not explicitly defined; referenced in the definition of 'employer' as defined in 15 U.S.C. 57b-1(a)(6). (Proposed Rule, § 910.1)",
+      "final_definition": "Any natural person, partnership, corporation, association, or other legal entity within the Commission's jurisdiction, including any person acting under color or authority of State law. (Final Rule, § 910.1)",
+      "changed": true
+    }
+  ],
+  "timeline": [
+    {
+      "date": "2023-01-19",
+      "event": "Proposed rule published in the Federal Register.",
+      "document": "Proposed Rule"
+    },
+    {
+      "date": "2024-05-07",
+      "event": "Final rule published in the Federal Register.",
+      "document": "Final Rule"
+    }
+  ],
+  "limitations": [
+    "Comparison is limited to the provided excerpts from the proposed and final rules. Full regulatory text was not available for review."
+  ],
+  "sources": [
+    {
+      "label": "Proposed Rule",
+      "document_number": "2023-00414",
+      "publication_date": "2023-01-19",
+      "url": "https://www.federalregister.gov/documents/2023/01/19/2023-00414/non-compete-clause-rule"
+    },
+    {
+      "label": "Final Rule",
+      "document_number": "2024-09171",
+      "publication_date": "2024-05-07",
+      "url": "https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule"
+    }
+  ],
+  "_metadata": {
+    "generated_at": "2026-09-23T03:22:16.839292+00:00",
+    "deployment": "gpt-4o",
+    "input_tokens": 6111,
+    "output_tokens": 1533,
+    "proposed_doc": "2023-00414",
+    "final_doc": "2024-09171",
+    "disclaimer": "This comparison is AI-generated from partial document extracts. It does not substitute for a legal review of the full regulatory text."
+  }
+}

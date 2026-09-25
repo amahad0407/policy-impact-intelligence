@@ -1,0 +1,127 @@
+{
+  "executive_summary": "The FTC's Non-Compete Clause Rule prohibits most non-compete agreements for workers, aiming to improve labor mobility, wages, and competition. Public comments largely support the rule, citing benefits for workers and innovation, though some dissent exists. News coverage highlights legal challenges, state-level enforcement, and broader debates on productivity and competition. Uncertainties remain regarding the rule's impact on senior executives and nonprofits, as well as its enforcement across jurisdictions.",
+  "policy_context": "The FTC's Non-Compete Clause Rule bans new non-compete agreements for most workers and renders existing agreements unenforceable, except for senior executives. Employers must notify affected workers using model language provided by the FTC. The rule seeks to address negative effects on wages, labor mobility, and competition.",
+  "key_policy_changes": [
+    "The rule bans new non-compete clauses for all workers after the effective date (source: Official Policy).",
+    "Existing non-compete clauses are unenforceable for most workers, except senior executives (source: Official Policy).",
+    "Employers must notify workers with existing non-competes about their unenforceability using model language provided by the FTC (source: Official Policy).",
+    "The definition of 'employment' was clarified to include work for a person, regardless of classification under other laws (source: Official Policy)."
+  ],
+  "public_feedback": {
+    "summary": "Public comments focused on worker mobility, wages, healthcare professionals, and franchisee concerns, with most commenters supporting the rule. The sample size of 50 comments limits generalizability.",
+    "themes": [
+      "Worker Mobility: Many commenters argued that non-compete agreements restrict workers' ability to change jobs and pursue better opportunities (source: Public Comments).",
+      "Healthcare Professionals: Commenters highlighted negative impacts on patient care, relocation, and burnout due to non-compete agreements (source: Public Comments).",
+      "Franchisee Concerns: Franchisees expressed frustration with non-compete clauses limiting their ability to work in their field after leaving a franchise (source: Public Comments).",
+      "Economic and Innovation Impacts: Commenters noted that non-compete agreements stifle entrepreneurship, innovation, and economic growth (source: Public Comments)."
+    ],
+    "viewpoints": [
+      {
+        "label": "Supportive",
+        "description": "Most commenters supported the rule, citing benefits such as improved worker mobility, higher wages, better patient care, and economic growth.",
+        "source": "Public comments — FTC-2023-0007 (limited sample)"
+      },
+      {
+        "label": "Opposed",
+        "description": "A minority of commenters opposed the rule, arguing that non-compete agreements protect businesses from unfair competition and loss of proprietary knowledge.",
+        "source": "Public comments — FTC-2023-0007 (limited sample)"
+      },
+      {
+        "label": "Conditional Support",
+        "description": "Some commenters supported the rule but requested specific exemptions or additional considerations, such as including franchises or addressing nonprofit organizations.",
+        "source": "Public comments — FTC-2023-0007 (limited sample)"
+      }
+    ]
+  },
+  "news_coverage": {
+    "summary": "News coverage focused on enforcement challenges, state-level legal developments, and broader debates on productivity and competition. Articles also discussed the FTC's evolving regulatory approach.",
+    "developments": [
+      "A Massachusetts federal court enforced a non-compete agreement against a senior executive, highlighting ongoing state-level enforcement (source: JD Supra).",
+      "The FTC abandoned its proposed non-compete rule and shifted to a case-by-case enforcement strategy (source: Quarles).",
+      "An OECD study found that non-compete clauses negatively impact productivity (source: hcamag.com)."
+    ]
+  },
+  "stakeholders": [
+    {
+      "group": "Workers subject to non-compete clauses",
+      "impact": "positive",
+      "description": "Workers will no longer be bound by non-compete clauses, improving their ability to change jobs and negotiate better wages.",
+      "sources": [
+        "Official Policy",
+        "Public Comments"
+      ]
+    },
+    {
+      "group": "Senior executives",
+      "impact": "neutral",
+      "description": "Senior executives are exempt from the unenforceability provision for existing non-compete clauses, allowing these agreements to remain in force.",
+      "sources": [
+        "Official Policy",
+        "News Coverage"
+      ]
+    },
+    {
+      "group": "Employers",
+      "impact": "mixed",
+      "description": "Employers must cease entering into new non-compete clauses and notify workers with existing non-competes about their unenforceability, potentially facing operational challenges.",
+      "sources": [
+        "Official Policy",
+        "Public Comments"
+      ]
+    },
+    {
+      "group": "Nonprofit organizations",
+      "impact": "neutral",
+      "description": "The rule applies to nonprofits only if they are profit-making enterprises, but its applicability to complex financial structures remains unclear.",
+      "sources": [
+        "Official Policy"
+      ]
+    }
+  ],
+  "areas_of_alignment": [
+    "Both public comments and official policy agree that non-compete clauses negatively impact worker mobility and wages (sources: Official Policy, Public Comments).",
+    "News coverage and public comments align on the view that non-compete clauses stifle innovation and economic growth (sources: Public Comments, News Coverage)."
+  ],
+  "areas_of_difference": [
+    "Public comments predominantly support the rule, while news coverage highlights legal challenges and state-level enforcement that complicate implementation (sources: Public Comments, News Coverage).",
+    "The official policy exempts senior executives from the unenforceability provision, while public comments and news coverage do not extensively address this exemption (sources: Official Policy, Public Comments, News Coverage)."
+  ],
+  "uncertainties_and_limitations": [
+    "The causal relationship between non-compete clauses and reduced earnings for workers not subject to these clauses remains partially uncertain (source: Official Policy).",
+    "The practical impacts of exempting senior executives from the unenforceability provision are not fully addressed (source: Official Policy).",
+    "The sample of 50 public comments may not represent all viewpoints or the broader public opinion (source: Public Comments).",
+    "News coverage is limited to 16 articles and may not capture the full scope of media perspectives (source: News Coverage)."
+  ],
+  "sources": [
+    {
+      "label": "Official Policy",
+      "type": "official",
+      "description": "Federal Register documents outlining the FTC's Non-Compete Clause Rule.",
+      "url": ""
+    },
+    {
+      "label": "Public Comments",
+      "type": "public_comment",
+      "description": "50 comments from Regulations.gov docket FTC-2023-0007 discussing the rule's impacts.",
+      "url": ""
+    },
+    {
+      "label": "News Coverage",
+      "type": "news",
+      "description": "16 articles discussing enforcement, legal challenges, and productivity impacts of non-compete clauses.",
+      "url": ""
+    }
+  ],
+  "_metadata": {
+    "generated_at": "2026-09-25T19:12:20.214568+00:00",
+    "deployment": "gpt-4o",
+    "input_tokens": 2102,
+    "output_tokens": 1466,
+    "sources_used": [
+      "policy_summary.json",
+      "comments_analysis.json",
+      "news_analysis.json"
+    ],
+    "disclaimer": "This briefing is AI-generated from limited data sources. It is a starting point for analysis, not a legal interpretation. Human analyst review is required before use in official communications."
+  }
+}

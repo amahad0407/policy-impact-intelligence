@@ -1,0 +1,127 @@
+{
+  "policy_summary": "The Non-Compete Clause Rule, issued by the Federal Trade Commission (FTC), prohibits employers from entering into non-compete clauses with workers after the rule's effective date. Existing non-compete clauses are unenforceable for most workers, except senior executives, who are exempt from this provision. Employers must notify affected workers about the unenforceability of existing non-competes, and the rule provides model language for this purpose. The rule aims to address the negative effects of non-compete clauses on competition, wages, and labor mobility, while providing clarity on definitions and exceptions.",
+  "key_changes": [
+    "The final rule bans new non-compete clauses for all workers after the effective date (Final Rule, Summary).",
+    "Existing non-compete clauses are unenforceable for workers other than senior executives, who are exempt from this provision (Final Rule, Summary).",
+    "Employers are required to notify workers with existing non-competes that these clauses are no longer enforceable, using model language provided in the rule (Final Rule, Summary).",
+    "The definition of 'employment' was clarified to include work for a person, regardless of classification under other laws (Final Rule, Section III.B)."
+  ],
+  "affected_stakeholders": [
+    {
+      "group": "Workers subject to non-compete clauses",
+      "description": "Workers will no longer be bound by non-compete clauses, improving their ability to change jobs and negotiate better wages.",
+      "impact": "positive",
+      "evidence_excerpt": "Existing non-competes with workers other than senior executives are not enforceable after the effective date (Final Rule, Summary).",
+      "source_document": "Final Rule",
+      "source_section": "Summary"
+    },
+    {
+      "group": "Senior executives",
+      "description": "Senior executives are exempt from the unenforceability provision for existing non-compete clauses, allowing these agreements to remain in force.",
+      "impact": "neutral",
+      "evidence_excerpt": "Existing non-competes with senior executives can remain in force; the final rule does not cover such agreements (Final Rule, Summary).",
+      "source_document": "Final Rule",
+      "source_section": "Summary"
+    },
+    {
+      "group": "Employers",
+      "description": "Employers must cease entering into new non-compete clauses and notify workers with existing non-competes about their unenforceability.",
+      "impact": "mixed",
+      "evidence_excerpt": "Employers must provide such workers with existing non-competes notice that they are no longer enforceable (Final Rule, Summary).",
+      "source_document": "Final Rule",
+      "source_section": "Summary"
+    },
+    {
+      "group": "Nonprofit organizations",
+      "description": "The rule applies to nonprofits only if they are profit-making enterprises, as determined by a two-part test.",
+      "impact": "neutral",
+      "evidence_excerpt": "Congress took pains in drafting § 4 to authorize the Commission to regulate so-called nonprofit corporations, associations and all other entities if they are in fact profit-making enterprises (Final Rule, Section III.B).",
+      "source_document": "Final Rule",
+      "source_section": "Section III.B"
+    }
+  ],
+  "important_definitions": [
+    {
+      "term": "Business entity",
+      "definition": "A partnership, corporation, association, limited liability company, or other legal entity, or a division or subsidiary thereof.",
+      "source_document": "Final Rule",
+      "source_section": "Section III.A"
+    },
+    {
+      "term": "Employment",
+      "definition": "Work for a person, regardless of whether an employment relationship exists under other laws.",
+      "source_document": "Final Rule",
+      "source_section": "Section III.B"
+    }
+  ],
+  "findings": [
+    {
+      "claim": "Non-compete clauses reduce workers' earnings and labor mobility.",
+      "source_type": "official",
+      "confidence": "high",
+      "evidence": [
+        {
+          "excerpt": "Non-compete clauses negatively affect competition in labor markets, thereby inhibiting optimal matches from being made between employers and workers across the labor force (Proposed Rule, Section I.b).",
+          "source_document": "Proposed Rule",
+          "source_section": "Section I.b"
+        },
+        {
+          "excerpt": "A nationwide ban on non-compete clauses would increase average earnings by 3.3-13.9% (Proposed Rule, Section I.b).",
+          "source_document": "Proposed Rule",
+          "source_section": "Section I.b"
+        }
+      ]
+    },
+    {
+      "claim": "Non-compete clauses are coercive and exploitative for most workers.",
+      "source_type": "official",
+      "confidence": "high",
+      "evidence": [
+        {
+          "excerpt": "Non-compete clauses force a worker to either stay in a job they want to leave or choose an alternative that likely impacts their livelihood (Proposed Rule, Section I.c).",
+          "source_document": "Proposed Rule",
+          "source_section": "Section I.c"
+        }
+      ]
+    },
+    {
+      "claim": "Employers have alternatives to non-compete clauses for protecting investments.",
+      "source_type": "official",
+      "confidence": "high",
+      "evidence": [
+        {
+          "excerpt": "Employers have alternatives for protecting valuable investments that are much more narrowly tailored to limit impacts on competitive conditions (Proposed Rule, Section I.2).",
+          "source_document": "Proposed Rule",
+          "source_section": "Section I.2"
+        }
+      ]
+    }
+  ],
+  "uncertainty_or_limitations": [
+    "The causal relationship between non-compete clauses and reduced earnings for workers not subject to these clauses remains partially uncertain due to limitations in available data (Proposed Rule, Section I.c).",
+    "The practical impacts of exempting senior executives from the unenforceability provision for existing non-competes are not fully addressed (Final Rule, Summary).",
+    "The rule's applicability to nonprofit organizations with complex financial structures may require further clarification (Final Rule, Section III.B)."
+  ],
+  "_metadata": {
+    "generated_at": "2026-09-23T02:15:02.461372+00:00",
+    "deployment": "gpt-4o",
+    "input_tokens": 6357,
+    "output_tokens": 1304,
+    "source_documents": [
+      {
+        "label": "Proposed Rule",
+        "document_number": "2023-00414",
+        "title": "Non-Compete Clause Rule",
+        "publication_date": "2023-01-19",
+        "source_url": "https://www.federalregister.gov/documents/2023/01/19/2023-00414/non-compete-clause-rule"
+      },
+      {
+        "label": "Final Rule",
+        "document_number": "2024-09171",
+        "title": "Non-Compete Clause Rule",
+        "publication_date": "2024-05-07",
+        "source_url": "https://www.federalregister.gov/documents/2024/05/07/2024-09171/non-compete-clause-rule"
+      }
+    ]
+  }
+}
